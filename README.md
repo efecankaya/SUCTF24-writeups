@@ -35,6 +35,8 @@ SUCyber ~ Sabanci University Cybersecurity Club
 | [Numbers](./reverse/numbers/Readme.md)     |
 | [Keygen](./reverse/keygen/Readme.md)     |
 | [Package](./reverse/package/Readme.md)     |
+| [ProEncryptor](https://cagrieser.com/enc-pro/)     |
+| [SnakeGame](https://cagrieser.com/kobra-ware/)     |
 
 ### Forensics
 
